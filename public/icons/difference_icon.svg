@@ -1,0 +1,17 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="402" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000000" id="svg_5" height="386.000003" width="383.999986" y="7" x="9" stroke-width="16" fill="none"/>
+  <rect id="svg_2" height="40" width="40" y="273" x="46" stroke-width="1.5" fill="#000000"/>
+  <rect id="svg_4" height="40" width="40" y="73" x="319" stroke-width="1.5" fill="#000000"/>
+  <text font-weight="bold" stroke="null" transform="matrix(4.749226312307226,0,0,4.95207676507153,-994.174232177905,-1275.4065384090381) " xml:space="preserve" text-anchor="start" font-family="Junction, sans-serif" font-size="24" id="svg_6" y="330.960407" x="235.231027" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">DIFF</text>
+ </g>
+</svg>
